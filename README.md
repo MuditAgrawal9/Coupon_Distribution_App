@@ -17,3 +17,5 @@ Enable/Disable coupons
 Delete coupons
 Access: /admin
 
+User Interface URL : https://coupon-distribution-app-e6ap.vercel.app/
+Admin Panel URL : https://coupon-distribution-app-e6ap.vercel.app/dashboard
